@@ -8,3 +8,6 @@ At the bottom of the `backpropagate.py` file, the user can tweak the inputs of t
 - **Learning Rate:** The learning rate determines how quickly the weights of nodes in the backpropagation algorithm are updated. Low learning rates may be very slow as the weights are only updated in very small increments, while high learning rates (rates approaching 1) can cause changes that are too large, which can cause the result to jump around erratically.
 - **Epochs:** This is the number of times the algorithm will backpropagate the error through the nodes and update their weights. A higher number of epochs will lead to a higher precision.
 - **Hidden Nodes:** The number of nodes in the hidden layer of the neural network
+
+# Example Test
+![Example Test](https://github.com/joegodard/Backpropagation/blob/main/Images/ExampleTest.png?raw=true)
